@@ -8,3 +8,16 @@
  
  Feel free to reach out!
 
+Tech Stack: 
+
+Languages: JavaScript, HTML, CSS
+
+Front-End: React
+
+Back-End: Node.js, Express
+
+Tools: Github, Git, Netlify, Visual Code Studio
+
+Testing: React, TDD, CI, Jest
+
+Databases: Supabase
