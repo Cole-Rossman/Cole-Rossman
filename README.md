@@ -12,11 +12,11 @@ Tech Stack:
 
 Languages: JavaScript, HTML, CSS
 
-Front-End: React, Vanilla JavaScript
+Front-End: React, Vanilla JavaScript, CSS
 
-Back-End: Node.js, Express
+Back-End: Node.js, Express, RESTful APIs, OAuth
 
-Tools: Github, Git, Netlify, Visual Code Studio
+Tools: Github, Git, Netlify, Visual Code Studio, Heroku
 
 Testing: React, TDD, CI, Jest
 
