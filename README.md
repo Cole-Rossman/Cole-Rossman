@@ -12,7 +12,7 @@ Tech Stack:
 
 Languages: JavaScript, HTML, CSS
 
-Front-End: React
+Front-End: React, Vanilla JavaScript
 
 Back-End: Node.js, Express
 
@@ -20,4 +20,4 @@ Tools: Github, Git, Netlify, Visual Code Studio
 
 Testing: React, TDD, CI, Jest
 
-Databases: Supabase
+Databases: PostgreSQL, Supabase
